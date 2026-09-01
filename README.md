@@ -164,9 +164,9 @@ Currently AI Intern at **Baby Dino / Zenith India**, building AI/data-science dr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditi05336&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditi05336&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi05336&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi05336&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </div>
 
@@ -178,13 +178,6 @@ Currently AI Intern at **Baby Dino / Zenith India**, building AI/data-science dr
 
 </div>
 
-# 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi05336&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -204,9 +197,9 @@ Currently AI Intern at **Baby Dino / Zenith India**, building AI/data-science dr
 
 ```yaml
 building:
-  - 🩺 RepoPulse AI – GitHub repository health analyzer
-  - 📉 Retenta AI – customer churn prediction engine
-  - 🌿 BioScan AI – real-time plant health monitor
+  - building:
+  - 🌍 GeoPlanner AI – AI-powered geospatial planning and vegetation analysis platform
+  - 🧠 MindCare AI – AI-powered cognitive gaming and memory assistance platform
 
 learning:
   - Advanced ML system design
